@@ -1,3 +1,3 @@
-var a = confirm('Да или нет???');
+var a = confirm('Да or нет???');
 console.log(a);
 console.log(typeof(a));
